@@ -1,0 +1,3 @@
+# IMDb-Movie_Sentiment_Analysis
+
+Sentiment analysis, or understanding feelings in movie reviews, is an exciting area in language tech. Its goal is to figure out if opinions in text are positive or negative, especially in the world of movies. Movie reviews are crucial for movie lovers and the film industry, giving insights into a film's quality, story, and actors' performances. We use fancy language tech and machine learning to understand the words and feelings in these reviews. We work with a dataset of 50,000 IMDB reviews, doing things like loading data, preparing it, and using SVM and KNN models to classify sentiments. We discuss results and ways to make our models better, like using TF-IDF representation, to get a good grip on sentiment in movie reviews.
